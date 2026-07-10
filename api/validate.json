@@ -1,16 +1,16 @@
 {
   "TEST-123456": {
-    "expireTime": "2027-12-31T23:59:59",
+    "expireTime": "2026-10-31T23:59:59",
     "maxUsers": 5,
     "machineCode": "fdafjeoiw34"
   },
   "VIP-654321": {
-    "expireTime": "2027-12-31T23:59:59",
+    "expireTime": "2026-11-31T23:59:59",
     "maxUsers": 10,
     "machineCode": null
   },
   "ADMIN-000000": {
-    "expireTime": "2027-12-31T23:59:59",
+    "expireTime": "2026-02-31T23:59:59",
     "maxUsers": 1,
     "machineCode": null
   }
