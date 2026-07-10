@@ -9,6 +9,11 @@
     "maxUsers": 10,
     "machineCode": null
   },
+    "Acccc1": {
+    "expireTime": "2026-09-31 23:59:59",
+    "maxUsers": 1,
+    "machineCode": null
+  }
   "ADMIN-000000": {
     "expireTime": "2026-02-31T23:59:59",
     "maxUsers": 1,
