@@ -2,7 +2,7 @@
   "TEST-123456": {
     "expireTime": "2027-12-31T23:59:59",
     "maxUsers": 5,
-    "machineCode": null
+    "machineCode": "fdafjeoiw34"
   },
   "VIP-654321": {
     "expireTime": "2027-12-31T23:59:59",
