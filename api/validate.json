@@ -5,17 +5,22 @@
     "machineCode": null
   },
   "VIP-654321": {
-    "expireTime": "2026-11-31T23:59:59",
+    "expireTime": "2026-11-30T23:59:59",
     "maxUsers": 10,
     "machineCode": null
   },
     "Acccc1": {
-    "expireTime": "2026-09-31 23:59:59",
+    "expireTime": "2026-09-01 23:59:59",
     "maxUsers": 1,
     "machineCode": null
   },
+      "Acccc2": {
+    "expireTime": "2026-09-08 23:59:59",
+    "maxUsers": 1,
+    "machineCode": "945d0185ce47cc6530b74d03a6e2c679f53ea490d9dbf7b2bab670d2c89cd811"
+  },
   "ADMIN-000000": {
-    "expireTime": "2026-02-31T23:59:59",
+    "expireTime": "2026-02-03T23:59:59",
     "maxUsers": 1,
     "machineCode": null
   }
